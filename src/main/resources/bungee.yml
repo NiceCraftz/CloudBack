@@ -1,0 +1,4 @@
+name: CloudBack
+version: '${project.version}'
+main: me.alexmc.cloudback.CloudBack
+description: Automatically sends your players to an available server on crash

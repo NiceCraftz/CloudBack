@@ -1,0 +1,16 @@
+lobbies:
+  - "lobby1"
+  - "lobby2"
+  - "lobby3"
+  - "aninvalidlobby"
+
+server-down: "&cThe server you were in has gone offline, you have been moved to a new lobby."
+no-lobbies: "&cCouldn't find a suitable lobby :("
+
+loaded-lobby: "&a%s was successfully loaded!"
+invalid-lobby: "&cThere was a problem trying to load %s, is it valid?"
+
+no-args: "&cPlease specify an argument!"
+unknown-arg: "&cUnknown argument!"
+no-perm: "&cYou don't have permission to execute this command!"
+reloaded: "&aConfiguration Reloaded!"
